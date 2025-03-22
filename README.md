@@ -4,6 +4,8 @@
 
 This project implements the classic Space Invaders game on an STM32 microcontroller, tested on the NUCLEO-L476RG board. The game uses an OLED SSD1339 display and allows control via a computer using the UART protocol (commands can be sent via PuTTY, for example).
 
+![1742632955845.jpg](https://github.com/user-attachments/assets/12b8e970-c9ec-41cb-b017-6bf1b40d21d6)
+
 ---
 
 ### Project Features
