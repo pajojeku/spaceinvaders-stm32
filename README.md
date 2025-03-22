@@ -12,7 +12,7 @@ This project implements the classic Space Invaders game on an STM32 microcontrol
 
 Game display on OLED SSD1339 (SPI communication)
 
-User input via UART (e.g., arrow keys for movement, spacebar for shooting)
+User input via UART (e.g., a;d keys for movement, spacebar for shooting)
 
 Basic game mechanics: enemies, bullets, collisions
 
